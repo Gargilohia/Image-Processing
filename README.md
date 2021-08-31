@@ -1,5 +1,6 @@
 # Image-Processing
-Learning image processing using OpenCV and imutils libraries
+Learning image processing using OpenCV and imutils libraries.
+(Reference : https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/)
 
 The file Image_Processing1 performs the following functions on jp.png :
 
