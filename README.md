@@ -1,6 +1,6 @@
 # Image-Processing
 Learning image processing using OpenCV and imutils libraries.
-(Reference : https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/)
+
 
 The file Image_Processing1 performs the following functions on jp.png :
 
@@ -14,3 +14,6 @@ The file Image_Processing1 performs the following functions on jp.png :
 8. Drawing a reactangle around Ian's face
 9. Drawing a circle and a line
 10. Writing text over the image 
+
+Reference : https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
+
